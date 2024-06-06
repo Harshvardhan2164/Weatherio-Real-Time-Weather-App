@@ -1,7 +1,5 @@
 # Weatherio: Real-Time Weather App
 
-# Real-Time Weather App
-
 ## Overview
 
 The Real-Time Weather App provides users with comprehensive weather information using the OpenWeather API. The app offers current weather conditions, hourly weather updates, sunrise and sunset times, and a 5-day weather forecast.
