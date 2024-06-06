@@ -15,9 +15,11 @@ The Real-Time Weather App provides users with comprehensive weather information 
 - **Search Functionality:** Search for weather data in different cities around the world.
 
 ## Screenshots
-
-(screenshots/Screenshot_1.png)
-(screenshots/Screenshot_2.png)
+<br>
+<img src = "screenshots/Screenshot_1.png" alt="image" width = 900 height = 500></img>
+<br>
+<img src = "screenshots/Screenshot_2.png" alt="image" width = 900 height = 500></img>
+<br>
 
 ## Installation
 
